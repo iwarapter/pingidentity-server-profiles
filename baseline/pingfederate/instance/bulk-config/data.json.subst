@@ -28,7 +28,7 @@
             "operationType": "SAVE",
             "subResource": "org.sourceid.common.ExpressionManager",
             "items": [{
-                "stringValue": "",
+                "stringValue": "true",
                 "id": "evaluateExpressions",
                 "type": "STRING"
             }],
