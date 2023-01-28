@@ -1,4 +1,4 @@
-http.proxyHost=<HTTP_PROXY_HOST>
-http.proxyPort=<HTTP_PROXY_PORT>
-https.proxyHost=<HTTPS_PROXY_HOST>
-https.proxyPort=<HTTPS_PROXY_PORT>
+http.proxyHost=${HTTP_PROXY_HOST}
+http.proxyPort=${HTTP_PROXY_PORT}
+https.proxyHost=${HTTPS_PROXY_HOST}
+https.proxyPort=${HTTPS_PROXY_PORT}
